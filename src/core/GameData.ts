@@ -77,17 +77,6 @@ export default class GameData {
             ResManager.player = ResManager.scene3d.getChildByName("player") as Laya.Sprite3D;
             ResManager.scene3d.removeChild(ResManager.player);
 
-            /*
-            ResManager.road = scene3d.getChildByName("Road") as Laya.Sprite3D;
-            ResManager.npc = scene3d.getChildByName("NPC") as Laya.Sprite3D;
-            ResManager.eff = scene3d.getChildByName("Eff") as Laya.Sprite3D;
-            ResManager.boss = scene3d.getChildByName("Boss") as Laya.Sprite3D;
-            ResManager.npcPoint = scene3d.getChildByName("NPCPoint") as Laya.Sprite3D;
-            ResManager.playerPoint = scene3d.getChildByName("PlayerPoint") as Laya.Sprite3D;
-            ResManager.obstacle = scene3d.getChildByName("Obstacle") as Laya.Sprite3D;
-            ResManager.head = scene3d.getChildByName("Skin") as Laya.Sprite3D;
-            scene3d.removeChildren();
-            */
         })};
         this.resUrl[2] = {urls:["json/update.json", "json/shop.json", "json/task.json","json/talk.json", "json/box.json",  "json/gamelist.json",  "json/monster.json", "json/scene.json", "json/stage.json"], type:0, callback:Laya.Handler.create(this, ()=>{
             JSONManager.grade = Laya.loader.getRes("json/update.json");

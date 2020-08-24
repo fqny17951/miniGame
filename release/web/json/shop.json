@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "model": "bj1.png",
+    "icon": "bj1_2.png",
+    "unlockType": 1,
+    "coin": 0,
+    "video": 0
+  },
+  {
+    "id": 2,
+    "model": "bj2.png",
+    "icon": "bj2_2.png",
+    "unlockType": 1,
+    "coin": 0,
+    "video": 0
+  },
+  {
+    "id": 3,
+    "model": "bj3.png",
+    "icon": "bj3_2.png",
+    "unlockType": 1,
+    "coin": 0,
+    "video": 0
+  },
+  {
+    "id": 4,
+    "model": "bj4.png",
+    "icon": "bj4_2.png",
+    "unlockType": 1,
+    "coin": 0,
+    "video": 0
+  },
+  {
+    "id": 5,
+    "model": "bj5.png",
+    "icon": "bj5_2.png",
+    "unlockType": 2,
+    "coin": 1200,
+    "video": 0
+  },
+  {
+    "id": 6,
+    "model": "bj6.png",
+    "icon": "bj6_2.png",
+    "unlockType": 3,
+    "coin": 0,
+    "video": 1
+  },
+  {
+    "id": 7,
+    "model": "bj7.png",
+    "icon": "bj7_2.png",
+    "unlockType": 4,
+    "coin": 1500,
+    "video": 1
+  },
+  {
+    "id": 8,
+    "model": "bj8.png",
+    "icon": "bj8_2.png",
+    "unlockType": 2,
+    "coin": 1500,
+    "video": 0
+  },
+  {
+    "id": 9,
+    "model": "bj9.png",
+    "icon": "bj9_2.png",
+    "unlockType": 3,
+    "coin": 0,
+    "video": 1
+  },
+  {
+    "id": 10,
+    "model": "bj10.png",
+    "icon": "bj10_2.png",
+    "unlockType": 4,
+    "coin": 1800,
+    "video": 1
+  },
+  {
+    "id": 11,
+    "model": "bj11.png",
+    "icon": "bj11_2.png",
+    "unlockType": 2,
+    "coin": 1800,
+    "video": 0
+  },
+  {
+    "id": 12,
+    "model": "bj12.png",
+    "icon": "bj12_2.png",
+    "unlockType": 3,
+    "coin": 0,
+    "video": 1
+  },
+  {
+    "id": 13,
+    "model": "bj13.png",
+    "icon": "bj13_2.png",
+    "unlockType": 4,
+    "coin": 2000,
+    "video": 1
+  },
+  {
+    "id": 14,
+    "model": "bj14.png",
+    "icon": "bj14_2.png",
+    "unlockType": 4,
+    "coin": 2000,
+    "video": 1
+  }
+]

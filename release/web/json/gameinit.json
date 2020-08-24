@@ -1,0 +1,21 @@
+{
+    "playerinit":{
+        "speed":-0.05,
+        "damping":0.75,
+        "dist":15,
+        "height":-0.5,
+        "force":100,
+        "velocity":0.5,
+        "jumpTime":0.5
+    },
+    "npcplayerinit":{
+        "speed":-0.05,
+        "dist":2
+    },
+    "bomb":110,
+    "updateMax0":10,
+    "updateMax1":21,
+    "updateMax2":21,
+    "shareMax":3,
+    "shareCent":100
+}

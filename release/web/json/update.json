@@ -1,0 +1,23 @@
+[
+{"id":1,"teamNum":1,"updateCost1":200 ,"damage":0,"updateCost2":50 ,"incomeRate":0,"updateCost3":60 },
+{"id":2,"teamNum":2,"updateCost1":450 ,"damage":10,"updateCost2":75 ,"incomeRate":5,"updateCost3":90 },
+{"id":3,"teamNum":3,"updateCost1":800 ,"damage":20,"updateCost2":113 ,"incomeRate":10,"updateCost3":135 },
+{"id":4,"teamNum":4,"updateCost1":1288 ,"damage":30,"updateCost2":169 ,"incomeRate":15,"updateCost3":203 },
+{"id":5,"teamNum":5,"updateCost1":2000 ,"damage":40,"updateCost2":253 ,"incomeRate":20,"updateCost3":304 },
+{"id":6,"teamNum":6,"updateCost1":3800 ,"damage":50,"updateCost2":354 ,"incomeRate":25,"updateCost3":425 },
+{"id":7,"teamNum":7,"updateCost1":6500 ,"damage":60,"updateCost2":496 ,"incomeRate":30,"updateCost3":595 },
+{"id":8,"teamNum":8,"updateCost1":9900 ,"damage":70,"updateCost2":695 ,"incomeRate":35,"updateCost3":833 },
+{"id":9,"teamNum":9,"updateCost1":18800 ,"damage":80,"updateCost2":972 ,"incomeRate":40,"updateCost3":1167 },
+{"id":10,"teamNum":10,"updateCost1":9999999 ,"damage":90,"updateCost2":1361 ,"incomeRate":45,"updateCost3":1634 },
+{"id":11,"teamNum":"","updateCost1":"","damage":100,"updateCost2":1702 ,"incomeRate":50,"updateCost3":2042 },
+{"id":12,"teamNum":"","updateCost1":"","damage":110,"updateCost2":2127 ,"incomeRate":55,"updateCost3":2553 },
+{"id":13,"teamNum":"","updateCost1":"","damage":120,"updateCost2":2659 ,"incomeRate":60,"updateCost3":3191 },
+{"id":14,"teamNum":"","updateCost1":"","damage":130,"updateCost2":3324 ,"incomeRate":65,"updateCost3":3988 },
+{"id":15,"teamNum":"","updateCost1":"","damage":140,"updateCost2":4155 ,"incomeRate":70,"updateCost3":4985 },
+{"id":16,"teamNum":"","updateCost1":"","damage":150,"updateCost2":4985 ,"incomeRate":75,"updateCost3":5983 },
+{"id":17,"teamNum":"","updateCost1":"","damage":160,"updateCost2":5983 ,"incomeRate":80,"updateCost3":7179 },
+{"id":18,"teamNum":"","updateCost1":"","damage":170,"updateCost2":7179 ,"incomeRate":85,"updateCost3":8615 },
+{"id":19,"teamNum":"","updateCost1":"","damage":180,"updateCost2":8615 ,"incomeRate":90,"updateCost3":10338 },
+{"id":20,"teamNum":"","updateCost1":"","damage":190,"updateCost2":10338 ,"incomeRate":95,"updateCost3":12405 },
+{"id":21,"teamNum":"","updateCost1":"","damage":200,"updateCost2":9999999 ,"incomeRate":100,"updateCost3":9999999 }
+]

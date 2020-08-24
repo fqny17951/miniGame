@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "week": 1,
+    "day": 1,
+    "icon": "jinbi_1.png",
+    "text": "100金币",
+    "rewardType": 1,
+    "rewardNum": 100
+  },
+  {
+    "id": 2,
+    "week": 1,
+    "day": 2,
+    "icon": "sjpf_1.png",
+    "text": "随机景点",
+    "rewardType": 2,
+    "rewardNum": 200
+  },
+  {
+    "id": 3,
+    "week": 1,
+    "day": 3,
+    "icon": "jinbi_2.png",
+    "text": "200金币",
+    "rewardType": 1,
+    "rewardNum": 200
+  },
+  {
+    "id": 4,
+    "week": 1,
+    "day": 4,
+    "icon": "jinbi_2.png",
+    "text": "200金币",
+    "rewardType": 1,
+    "rewardNum": 200
+  },
+  {
+    "id": 5,
+    "week": 1,
+    "day": 5,
+    "icon": "jinbi_3.png",
+    "text": "300金币",
+    "rewardType": 1,
+    "rewardNum": 300
+  },
+  {
+    "id": 6,
+    "week": 1,
+    "day": 6,
+    "icon": "jinbi_3.png",
+    "text": "300金币",
+    "rewardType": 1,
+    "rewardNum": 300
+  },
+  {
+    "id": 7,
+    "week": 1,
+    "day": 7,
+    "icon": "jinbi_3.png",
+    "text": "300金币",
+    "rewardType": 1,
+    "rewardNum": 300
+  },
+  {
+    "id": 8,
+    "week": 2,
+    "day": 1,
+    "icon": "jinbi_1.png",
+    "text": "100金币",
+    "rewardType": 1,
+    "rewardNum": 100
+  },
+  {
+    "id": 9,
+    "week": 2,
+    "day": 2,
+    "icon": "jinbi_1.png",
+    "text": "100金币",
+    "rewardType": 1,
+    "rewardNum": 100
+  },
+  {
+    "id": 10,
+    "week": 2,
+    "day": 3,
+    "icon": "jinbi_2.png",
+    "text": "200金币",
+    "rewardType": 1,
+    "rewardNum": 200
+  },
+  {
+    "id": 11,
+    "week": 2,
+    "day": 4,
+    "icon": "jinbi_2.png",
+    "text": "200金币",
+    "rewardType": 1,
+    "rewardNum": 200
+  },
+  {
+    "id": 12,
+    "week": 2,
+    "day": 5,
+    "icon": "jinbi_3.png",
+    "text": "300金币",
+    "rewardType": 1,
+    "rewardNum": 300
+  },
+  {
+    "id": 13,
+    "week": 2,
+    "day": 6,
+    "icon": "jinbi_3.png",
+    "text": "300金币",
+    "rewardType": 1,
+    "rewardNum": 300
+  },
+  {
+    "id": 14,
+    "week": 2,
+    "day": 7,
+    "icon": "jinbi_3.png",
+    "text": "300金币",
+    "rewardType": 1,
+    "rewardNum": 300
+  }
+]
