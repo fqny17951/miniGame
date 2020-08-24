@@ -1,0 +1,101 @@
+{
+    "copyFilesFilter": [
+        "../bin/**/*.*"
+    ],
+    "openDataZone": false,
+    "compressJson": true,
+    "compressJsonFilter": [
+        "$basePath/**/*.{json,atlas}"
+    ],
+    "compressJsonNoteList": [
+        ""
+    ],
+    "compressImage": true,
+    "compressImageFilter": [
+        "$basePath/**/*.{png,jpg}"
+    ],
+    "compressImageNoteList": [
+        ""
+    ],
+    "compressJs": true,
+    "compressJsFilter": [
+        "$basePath/**/*.js",
+        "!$basePath/libs/min/**/*.js"
+    ],
+    "compressJsNoteList": [
+        "",
+        ""
+    ],
+    "version": false,
+    "versionFilter": [
+        "$basePath/**/*.*",
+        "!$basePath/*.html",
+        "!$basePath/{version.json,game.js,game.json,project.config.json,weapp-adapter.js,project.swan.json,swan-game-adapter.js,main.js,gameConfig.json,my-adapter.js}",
+        "!$basePath/layaforqq/**/*.*"
+    ],
+    "versionNoteList": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "exclude": false,
+    "excludeFilter": [
+        "!$basePath/res/**/*.*"
+    ],
+    "vexcludeNoteList": [
+        ""
+    ],
+    "packfile": false,
+    "keepPlatformFile": false,
+    "packfileFilter": [
+        ""
+    ],
+    "packfileFullValue": [
+        "$basePath/**/*.*"
+    ],
+    "packfileTargetValue": "",
+    "packfileNoteList": [
+        ""
+    ],
+    "clearReleaseDir": true,
+    "compile": false,
+    "forceCompile": false,
+    "onlyIndexJS": true,
+    "useMinJsLibs": false,
+    "es6toes5": false,
+    "projectType": "ts",
+    "pubTime": 1597127822624,
+    "vivoInfo": {
+        "name": "照相我最强",
+        "projName": "quickgame",
+        "package": "com.ptg.zxwzq.vivominigame",
+        "icon": "E:\\游戏代码\\client3d\\3DPhoto\\laya\\assets\\game\\pzwzq.png",
+        "versionName": "0.1",
+        "versionCode": 1,
+        "minPlatformVersion": 1061,
+        "orientation": "portrait",
+        "logLevel": "log",
+        "adbDebug": false,
+        "apkUpdate": false,
+        "useReleaseSign": true,
+        "subpack": true
+    },
+    "vivoSign": {
+        "generateSign": false,
+        "countryName": "CN",
+        "provinceName": "ptg",
+        "localityName": "ptg",
+        "orgName": "ptg",
+        "orgUnitName": "ptg",
+        "commonName": "ptg",
+        "emailAddr": "ptg"
+    },
+    "vivoSubpack": [
+        {
+            "name": "res3d",
+            "root": "res3d/"
+        }
+    ],
+    "uesEnginePlugin": true
+}
