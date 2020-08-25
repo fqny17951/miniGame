@@ -8021,6 +8021,7 @@
 
   class Main {
       constructor() {
+          return;
           if (window["Laya3D"])
               Laya3D.init(GameConfig.width, GameConfig.height);
           else
